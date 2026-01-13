@@ -1,0 +1,2 @@
+this is another file created using open function without 'with' statement.
+this line is added in read and write mode.

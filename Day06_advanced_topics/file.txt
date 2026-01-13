@@ -1,0 +1,5 @@
+Hello, World!
+This is simple text file .it introduces about file handling in python
+there is some functions to handle files in python like read , write , append etc.
+files can be handled using 'with' statement as well as without 'with' statement.
+recommended way to use file handling is by using 'with' statement.

@@ -1,0 +1,6 @@
+my_logger - INFO - Info message from my_logger
+my_logger - WARNING - Warning message from my_logger
+my_logger - ERROR - Error message from my_logger
+my_logger - CRITICAL - Critical message from my_logger
+my_logger - INFO - Division successful: 5 / 2 = 2.5
+my_logger - ERROR - Attempted to divide by zero.
