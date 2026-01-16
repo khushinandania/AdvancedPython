@@ -1,0 +1,1 @@
+this is simple text file that contains basic file handling theory in python.
