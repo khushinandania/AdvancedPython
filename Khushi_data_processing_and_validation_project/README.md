@@ -4,8 +4,7 @@
 This project implements a **Python data processing pipeline** using **pandas** to:
 - Load raw user data from CSV
 - Validate and clean inconsistent values
-- Engineer meaningful features
-- Export a clean, analysis-ready dataset
+- Feature engineering
 
 
 ## 🛠 Technologies Used
@@ -27,7 +26,6 @@ This project implements a **Python data processing pipeline** using **pandas** t
 | signup_date        | Account creation date        |
 | monthly_income     | Monthly income               |
 
----
 
 ## Pipeline Steps
 
